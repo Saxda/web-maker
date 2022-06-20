@@ -1,7 +1,3 @@
 # web-maker
 
-Roman ist klein
-simon ist auch klein
-Test 123
-
-TEst roman
+Wir erstellen eine Webseite für das Restaurante "Melange" in der Akazienstraße 1C, 39126 Magdeburg.
