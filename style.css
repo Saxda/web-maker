@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+header {
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.navigation {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navigation a:hover {
+    font-size: 20px;
+    color: red;
+}
+
+.Überschriften {
+    text-decoration: underline;
+    color: green;
+}
+
+#about-us {
+    margin-right: 780px;
+}
+
