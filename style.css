@@ -19,8 +19,9 @@ header {
     font-size: 18px;
 }
 
-.navigation :hover a {
+.navigation a:hover {
     font-size: 20px;
+    color: red;
 }
 
 .Überschriften {
@@ -31,3 +32,4 @@ header {
 #about-us {
     margin-right: 780px;
 }
+
