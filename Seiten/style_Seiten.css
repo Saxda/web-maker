@@ -1,4 +1,26 @@
-h1 {
-    color: red;
-    background-color: lightblue;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+    color: #333333;
+}
+
+.h2_Unser_aktuelles_Speisenangebot {
+    color: rgb(247, 48, 48);
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+.h3_Vorspeisen_und_Zwischengerichte {
+    color: darkolivegreen;
+}
+
+.Speisen {
+    background-color: rgb(120, 228, 120);
+    width: 300px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
