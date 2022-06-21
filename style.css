@@ -1,4 +1,17 @@
-p {
-    color: darkgreen;
-    background-color: orange ;
+header {
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.navigation {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navigation :hover a {
+    font-size: 20px;
 }
