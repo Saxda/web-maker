@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgrey;
+    background-color: #e0e0e0;
     color: #333333;
 }
 
@@ -23,4 +23,32 @@ body {
     box-sizing: border-box;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.wrapper {
+    width: 960px;
+    max-width: 90%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.box {
+    width: 300px;
+    background-color: rgb(191, 248, 191);
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+}
+
+#GS {
+    text-align: center;
+    width: 300px;
+    background-color: rgb(191, 248, 191);
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid black;
 }
