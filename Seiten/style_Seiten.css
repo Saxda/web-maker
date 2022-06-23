@@ -47,10 +47,10 @@ body {
 }
 
 .box {
-    background-color: lightgreen;
+    background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
-    margin:10px;
+    margin: 10px;
     border: 1px solid black;
     height: 130px;
     border-radius: 10px;
@@ -70,10 +70,10 @@ body {
 }
 
 .box2 {
-    background-color: lightgreen;
+    background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
-    margin:10px;
+    margin: 10px;
     border: 1px solid black;
     height: 90px;
     border-radius: 10px;
@@ -93,10 +93,10 @@ body {
 }
 
 .box3 {
-    background-color: lightgreen;
+    background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
-    margin:10px;
+    margin: 10px;
     border: 1px solid black;
     height: 90px;
     border-radius: 10px;
