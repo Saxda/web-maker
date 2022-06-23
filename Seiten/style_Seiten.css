@@ -7,6 +7,11 @@ body {
 .h2_Unser_aktuelles_Speisenangebot {
     color: rgb(247, 48, 48);
     text-align: center;
+    border: black solid 1px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 7px;
+    margin: 20px 20px 0px 20px;
 }
 
 .main {
@@ -15,6 +20,12 @@ body {
 
 .h3_Vorspeisen_und_Zwischengerichte {
     color: darkolivegreen;
+    padding: 7px;
+    margin: 0px 20px 20px 20px;
+    background-color: white;
+    border-radius: 5px;
+    border: black solid 1px;
+
 }
 
 .Speisen {
@@ -26,29 +37,25 @@ body {
 }
 
 .wrapper {
-    width: 960px;
+    width: 740px;
     max-width: 90%;
-    margin: 0 auto;
+    margin: auto;
+    background-color: white;
     border: 1px solid black;
+    border-radius: 5px;
+    height: 310px;
+    padding: 7px;
 }
 
 .box {
-    width: 300px;
-    background-color: rgb(191, 248, 191);
+    background-color: lightgreen;
     box-sizing: border-box;
-    padding: 5px;
-    border-radius: 10px;
     float: left;
-    margin: 10px;
-}
-
-#GS {
-    text-align: center;
-    width: 300px;
-    background-color: rgb(191, 248, 191);
-    box-sizing: border-box;
-    padding: 5px;
-    border-radius: 10px;
-    margin: 10px;
+    margin:10px;
     border: 1px solid black;
+    height: 130px;
+    border-radius: 10px;
+    width: 350px;
+    padding: 7px;
+
 }
