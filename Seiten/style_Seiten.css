@@ -12,6 +12,8 @@ body {
     background-color: white;
     padding: 7px;
     margin: 20px 20px -30px 20px;
+    font-size: 32px;
+    text-decoration: underline;
 }
 
 .main {
@@ -21,10 +23,12 @@ body {
 .h3 {
     color: darkolivegreen;
     padding: 7px;
-    margin: 50px 20px 14px 20px;
+    margin: 50px 50px 14px 50px;
     background-color: white;
     border-radius: 5px;
-    border: black solid 1px;
+    font-size: 26px;
+    text-decoration: underline;
+    text-shadow: 2px 2px white;
 }
 
 .Speisen {
@@ -40,9 +44,8 @@ body {
     max-width: 90%;
     margin: auto;
     background-color: white;
-    border: 1px solid black;
     border-radius: 5px;
-    height: 300px;
+    height: 330px;
     padding: 7px;
 }
 
@@ -52,10 +55,11 @@ body {
     float: left;
     margin: 10px;
     border: 1px solid black;
-    height: 130px;
+    height: 43%;
     border-radius: 10px;
-    width: 350px;
+    width: 47%;
     padding: 7px;
+    box-shadow: 1px 1px #333333;
 }
 
 .wrapper2 {
@@ -63,7 +67,6 @@ body {
     max-width: 90%;
     margin: auto;
     background-color: white;
-    border: 1px solid black;
     border-radius: 5px;
     height: 220px;
     padding: 7px;
@@ -77,8 +80,9 @@ body {
     border: 1px solid black;
     height: 90px;
     border-radius: 10px;
-    width: 350px;
+    width: 31.5%;
     padding: 7px;
+    box-shadow: 1px 1px #333333;
 }
 
 .wrapper3 {
@@ -86,7 +90,6 @@ body {
     max-width: 90%;
     margin: auto;
     background-color: white;
-    border: 1px solid black;
     border-radius: 5px;
     height: 110px;
     padding: 7px;
@@ -102,4 +105,16 @@ body {
     border-radius: 10px;
     width: 350px;
     padding: 7px;
+    box-shadow: 1px 1px #333333;
+}
+
+.hr {
+    margin: 25px 50px -30px 50px;
+}
+
+footer {
+    text-align: center;
+    color: #595959;
+	font-size: 14px;
+    margin-top: 40px;
 }
