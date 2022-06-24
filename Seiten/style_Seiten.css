@@ -31,14 +31,6 @@ body {
     text-shadow: 2px 2px white;
 }
 
-.Speisen {
-    background-color: rgb(120, 228, 120);
-    width: 300px;
-    box-sizing: border-box;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
 .wrapper {
     width: 740px;
     max-width: 90%;
