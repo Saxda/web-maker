@@ -4,6 +4,10 @@ body {
     color: #333333;
 }
 
+/*
+Anfang Speisekarte.html
+*/
+
 .h2_Unser_aktuelles_Speisenangebot {
     color: rgb(247, 48, 48);
     text-align: center;
@@ -110,3 +114,34 @@ footer {
 	font-size: 14px;
     margin-top: 40px;
 }
+
+/*
+Ende Speisekarte.html
+*/
+
+/*
+Anfang Impressum.html
+*/
+
+#h2_Impressum {
+    color: firebrick;
+    background-color: darkgrey;
+    border: black solid 1px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.h4_Impressum {
+    background-color: darkgrey;
+    border: black solid 1px;
+    border-radius: 5px;
+    margin: 70px;
+}
+
+.p_Impressum {
+    font-size: 85%;
+}
+
+/*
+Ende Impressum.html
+*/
