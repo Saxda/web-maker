@@ -4,11 +4,18 @@ body {
     color: #333333;
 }
 
+footer {
+    text-align: center;
+    color: #595959;
+	font-size: 14px;
+    margin-top: 40px;
+}
+
 /*
 Anfang Speisekarte.html
 */
 
-.h2_Unser_aktuelles_Speisenangebot {
+.h2_Speisekarte {
     color: rgb(247, 48, 48);
     text-align: center;
     border: black solid 1px;
@@ -20,11 +27,11 @@ Anfang Speisekarte.html
     text-decoration: underline;
 }
 
-.main {
+.main_Speisekarte {
     text-align: center;
 }
 
-.h3 {
+.h3_Speisekarte {
     color: darkolivegreen;
     padding: 7px;
     margin: 50px 50px 14px 50px;
@@ -35,7 +42,7 @@ Anfang Speisekarte.html
     text-shadow: 2px 2px white;
 }
 
-.wrapper {
+.wrapper_Speisekarte {
     width: 740px;
     max-width: 90%;
     margin: auto;
@@ -45,7 +52,7 @@ Anfang Speisekarte.html
     padding: 7px;
 }
 
-.box {
+.box_Speisekarte {
     background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
@@ -58,7 +65,7 @@ Anfang Speisekarte.html
     box-shadow: 1px 1px #333333;
 }
 
-.wrapper2 {
+.wrapper2_Speisekarte {
     width: 1110px;
     max-width: 90%;
     margin: auto;
@@ -68,7 +75,7 @@ Anfang Speisekarte.html
     padding: 7px;
 }
 
-.box2 {
+.box2_Speisekarte {
     background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
@@ -81,7 +88,7 @@ Anfang Speisekarte.html
     box-shadow: 1px 1px #333333;
 }
 
-.wrapper3 {
+.wrapper3_Speisekarte {
     width: 370px;
     max-width: 90%;
     margin: auto;
@@ -91,7 +98,7 @@ Anfang Speisekarte.html
     padding: 7px;
 }
 
-.box3 {
+.box3_Speisekarte {
     background-color: rgb(215, 255, 215);
     box-sizing: border-box;
     float: left;
@@ -104,15 +111,8 @@ Anfang Speisekarte.html
     box-shadow: 1px 1px #333333;
 }
 
-.hr {
+.hr_Speisekarte {
     margin: 25px 50px -30px 50px;
-}
-
-footer {
-    text-align: center;
-    color: #595959;
-	font-size: 14px;
-    margin-top: 40px;
 }
 
 /*
@@ -122,6 +122,10 @@ Ende Speisekarte.html
 /*
 Anfang Impressum.html
 */
+
+main {
+    text-align: center;
+}
 
 #h2_Impressum {
     color: firebrick;
@@ -144,4 +148,16 @@ Anfang Impressum.html
 
 /*
 Ende Impressum.html
+*/
+
+/*
+Anfang Biergarten.html
+*/
+
+.box_Biergarten {
+    /*Platzhalter*/
+}
+
+/*
+Ende Biergarten.html
 */
