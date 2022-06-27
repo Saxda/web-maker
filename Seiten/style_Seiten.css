@@ -154,8 +154,25 @@ Ende Impressum.html
 Anfang Biergarten.html
 */
 
-.box_Biergarten {
+.main_Biergarten {
+    margin-right: 500px;
+}
+
+.wrapper_Biergarten {
     /*Platzhalter*/
+}
+
+.box_Biergarten_Bilder {
+    /*Platzhalter*/
+}
+
+#p_Biergarten_main {
+    color: #333333;
+    font-size: 200%;
+}
+
+#p_Biergarten_main1 {
+    text-align: right;
 }
 
 /*
