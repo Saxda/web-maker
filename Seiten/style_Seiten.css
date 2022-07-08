@@ -123,7 +123,7 @@ Ende Speisekarte.html
 Anfang Impressum.html
 */
 
-main {
+#main_Impressum {
     text-align: center;
 }
 
@@ -133,6 +133,7 @@ main {
     border: black solid 1px;
     border-radius: 5px;
     margin: 40px;
+    padding: 10px;
 }
 
 .h4_Impressum {
@@ -140,6 +141,7 @@ main {
     border: black solid 1px;
     border-radius: 5px;
     margin: 70px;
+    padding: 10px;
 }
 
 .p_Impressum {
@@ -177,4 +179,20 @@ Anfang Biergarten.html
 
 /*
 Ende Biergarten.html
+*/
+
+/*
+Anfang Kontakt.html
+*/
+
+#main_Kontakt {
+    text-align: center;
+}
+
+#Was_können_wir_für_Sie_tun\? {
+    color: firebrick;
+}
+
+/*
+Ende Kontakt.html
 */
