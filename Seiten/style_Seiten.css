@@ -158,6 +158,7 @@ Anfang Biergarten.html
 
 .main_Biergarten {
     margin-right: 500px;
+    margin-left: 400px;
 }
 
 .wrapper_Biergarten {
@@ -175,6 +176,15 @@ Anfang Biergarten.html
 
 #p_Biergarten_main1 {
     text-align: right;
+    font-size: 150%;
+}
+
+#p_Biergarten_main2 {
+    /*Platzhalter*/
+}
+
+.Biergarten_Bild {
+    margin-right: 20px;
 }
 
 /*
@@ -195,4 +205,16 @@ Anfang Kontakt.html
 
 /*
 Ende Kontakt.html
+*/
+
+/*
+Anfang Öffnungszeiten.html
+*/
+
+.main_Öffnungszeiten {
+    text-align: center;
+}
+
+/*
+Ende Öffnungszeiten
 */

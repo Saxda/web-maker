@@ -1,0 +1,3 @@
+wir sollten vielleicht die hintergrund farbe der boxen in Speisekarte.html etwas dunkeler machen
+
+wir müssen das Impressum auf allen seiten unten verlinken
